@@ -13,15 +13,19 @@ Tele:18844116689
 
 
 
-JiangYing Xue:
 
-Like Disney Movie:
 
-Like sports:
+JiangYing Xue
 
-Like software projects:
+Like Disney Movie
+
+Like sports
+
+Like software projects
 
 Tele: 13096644503
+
+
 
 
 
@@ -35,6 +39,8 @@ Contact: 2654585019@qq.com
 
 
 
+
+
 Kaiyue Shi(Kayla) 
 
 An undergraduate student at Jilin University. 
@@ -44,6 +50,8 @@ Enjoy programming and music
 Motto: Hard work makes more influence than cleverness.
 
 Contact: Wechat-18332755168
+
+
 
 
 
