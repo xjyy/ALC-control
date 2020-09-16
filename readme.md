@@ -3,8 +3,10 @@ Our Team Members:
 
 Yan Zhao:
 
-A patient person who gets along well with others 
-Love challenge and pressure 
+A patient person who gets along well with others :
+
+Love challenge and pressure:
+
 Like coding and algorithms
 Tele:18844116689
 
