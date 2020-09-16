@@ -1,7 +1,7 @@
-Group: LuckyDogs
+#### Group: LuckyDogs
 Our Team Members:
 
-Yan Zhao
+## Yan Zhao
 
 A patient person who gets along well with others
 
@@ -15,7 +15,7 @@ Tele:18844116689
 
 
 
-JiangYing Xue
+## JiangYing Xue
 
 Like Disney Movie
 
@@ -29,7 +29,7 @@ Tele: 13096644503
 
 
 
-Lingling LI:
+## Lingling Li:
 
 A girl from Hunan
 
@@ -41,7 +41,7 @@ Contact: 2654585019@qq.com
 
 
 
-Kaiyue Shi(Kayla) 
+## Kaiyue Shi(Kayla) 
 
 An undergraduate student at Jilin University. 
 
@@ -55,7 +55,7 @@ Contact: Wechat-18332755168
 
 
 
-JingHan Lu
+## JingHan Lu
 
 Like Maths
 
