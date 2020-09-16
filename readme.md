@@ -1,4 +1,4 @@
-#### Group: LuckyDogs
+# Group: LuckyDogs
 Our Team Members:
 
 ## Yan Zhao
