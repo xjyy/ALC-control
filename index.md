@@ -5,7 +5,7 @@ Welcome to LuckyDogs' Pages, this is our project!
 
 # Group Gantt
 
-![Gantt图](/Users/xuejiangying/Downloads/Gantt图.png)
+![Gantt图](Gantt图.png)
 
 
 
